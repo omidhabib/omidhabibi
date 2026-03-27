@@ -1,4 +1,3 @@
-Hi, I'm Omid Habibi 👋
-
-🎓 Software Engineering master Student at Fırat University
-💻 Full Stack Developer | Machine Learning Enthusiast
+<h2 align="center">
+  <a href="#">Hi there, I'm Omid Habibi 👋</a>
+</h2>
