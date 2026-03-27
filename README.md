@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=AAAAAA&center=true&vCenter=true&width=600&lines= Software+Engineer+|+Full+Stack+Developer+|+AI+Researcher" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=AAAAAA&center=true&vCenter=true&width=600&lines=Software+Engineer+|+Full+Stack+Developer+|+AI+Researcher" />
 </p>
