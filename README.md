@@ -15,6 +15,6 @@
 
 ## About Me
 
-Hi! I'm Omid Habibi, a passionate Software Engineer, Full Stack Developer, and AI Researcher. I love building web applications, exploring AI technologies, and creating innovative solutions.  
+I am Omid Habibi, a dedicated Software Engineer and Full Stack Developer with a strong focus on artificial intelligence research. My academic and professional pursuits involve the development of scalable web applications, the implementation of machine learning algorithms, and the exploration of innovative AI solutions.  
 
-I enjoy learning new programming languages, contributing to open-source projects, and sharing my knowledge with the developer community.  
+I am committed to continuous learning, contributing to technological advancements, and engaging in projects that integrate practical software engineering with rigorous research methodologies. My goal is to create impactful software systems while advancing knowledge in the field of computer science.  
