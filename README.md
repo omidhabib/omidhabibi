@@ -13,8 +13,70 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I am Omid Habibi, a dedicated Software Engineer and Full Stack Developer with a strong focus on artificial intelligence research. My academic and professional pursuits involve the development of scalable web applications, the implementation of machine learning algorithms, and the exploration of innovative AI solutions.  
+Hello! My name is **Omid Habibi**, and I am a passionate **Software Engineer** and **Full Stack Developer** with a strong interest in **Artificial Intelligence, Machine Learning, and modern web technologies**.
 
-I am committed to continuous learning, contributing to technological advancements, and engaging in projects that integrate practical software engineering with rigorous research methodologies. My goal is to create impactful software systems while advancing knowledge in the field of computer science.  
+I focus on designing and developing **scalable, efficient, and user-friendly software systems**. My work combines practical software engineering with continuous research in emerging technologies, especially in the field of **AI-driven solutions**.
+
+---
+
+### 💡 Professional Interests
+
+My main areas of interest include:
+
+* **Full Stack Web Development**
+  Building modern web applications using clean architecture, responsive design, and scalable backend systems.
+
+* **Artificial Intelligence & Machine Learning**
+  Exploring machine learning models, data-driven systems, and intelligent automation to solve complex real-world problems.
+
+* **Software Engineering & System Design**
+  Creating maintainable, scalable, and efficient software architectures.
+
+* **Research & Innovation**
+  Continuously studying new technologies and applying them to innovative projects.
+
+---
+
+### 🧠 My Approach
+
+I believe that great software is built through a combination of:
+
+* **Strong engineering principles**
+* **Continuous learning**
+* **Practical experimentation**
+* **Collaboration and research**
+
+My goal is not only to build functional applications but also to develop **high-quality, reliable, and impactful software solutions**.
+
+---
+
+### 🚀 Goals
+
+My long-term goals include:
+
+* Advancing my expertise in **Artificial Intelligence and Machine Learning**
+* Developing **innovative software products**
+* Contributing to **research and technological advancements**
+* Building projects that make a **real impact in the tech industry**
+
+---
+
+### 🛠️ Technologies I Work With
+
+* **Python**
+* **Django**
+* **JavaScript**
+* **HTML & CSS**
+* **SQL / Databases**
+* **Machine Learning tools**
+
+---
+
+### 📌 Philosophy
+
+> *Technology is most powerful when it solves meaningful problems and helps people move forward.*
+
+I strive to build software that reflects this philosophy — combining **engineering excellence with meaningful innovation**.
+
